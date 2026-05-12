@@ -8,6 +8,8 @@
 # here is recommended.
 groupName: acme.zacharyseguin.ca
 
+namespace: cert-manager
+
 certManager:
   namespace: cert-manager
   serviceAccountName: cert-manager
